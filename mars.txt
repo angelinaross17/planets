@@ -6,7 +6,15 @@ docked to international space station and ready for a sling to mars :)
 research notes :P  
 Ready to touchdown on mars
 
+<<<<<<< HEAD
 These are my notes, Angelina's notes, on my file not your file backoff!!! Conflict!!!
 
 
 COnflict~!!!!!!
+=======
+Hello, Social Workers are cool.
+
+I have three cats. Ella, Arya, and Sansa. 
+
+
+>>>>>>> fcd61d48dd0d83d0fd144f8027aae8a8d4349c26
